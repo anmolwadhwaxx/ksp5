@@ -1,6 +1,7 @@
-<a href="https://bgremover.in](https://ksp5-working-demo.vercel.app/" target="_blank">
+<a href="https://ksp5-working-demo.vercel.app/" target="_blank">
 ![Police Resource Management System](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/12c30b32-1135-48a9-927a-b2308e8ecd33)
 </a>
+
 # Police Resouce Management System
 
 ## Description
@@ -23,9 +24,10 @@ Police Resouce Management System equips police departments with a comprehensive 
 ### Architecture
 ![arch](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/7a5c9b14-729b-4224-92f6-78640a60eb0b)
 
-### Link
+## Link
+
 Project can be found here - [https://ksp5-working-demo.vercel.app/](url)
-> Please use one of the following emails for login: psi@ksp.com, pi@ksp.com, dysp@ksp.com
+> For login please use one of the following emails: psi@ksp.com, pi@ksp.com, dysp@ksp.com
 
 
 ## Setup
