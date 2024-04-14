@@ -26,7 +26,7 @@ Police Resouce Management System equips police departments with a comprehensive 
 
 ## Link
 
-Project can be found here - [https://ksp5-working-demo.vercel.app/](url)
+Project can be found here - <a href ="https://ksp5-working-demo.vercel.app/"><p>https://ksp5-working-demo.vercel.app</p></a>
 > For login please use one of the following emails: psi@ksp.com, pi@ksp.com, dysp@ksp.com
 
 
