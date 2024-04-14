@@ -22,7 +22,7 @@ Police Resouce Management System equips police departments with a comprehensive 
 ![a](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/51011b38-3376-416c-9372-95782727e4af)
 
 ### Architecture
-<img src="https://github.com/anmolwadhwaxx/ksp5/assets/94642300/7a5c9b14-729b-4224-92f6-78640a60eb0b" width="1000">
+<img src="https://github.com/anmolwadhwaxx/ksp5/assets/94642300/7a5c9b14-729b-4224-92f6-78640a60eb0b" width="1100">
 
 ## Link
 
