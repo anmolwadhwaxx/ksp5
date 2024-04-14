@@ -1,7 +1,6 @@
 ![Police Resource Management System](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/12c30b32-1135-48a9-927a-b2308e8ecd33)
 
 # Police Resouce Management System
-![a](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/b32d8cd5-48c5-49e5-b3af-28a75b39d907)
 
 ## Description
 
@@ -17,10 +16,10 @@ Police Resouce Management System equips police departments with a comprehensive 
 
 ## Screenshots
 
-Dashboard
+### Dashboard
 ![a](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/51011b38-3376-416c-9372-95782727e4af)
 
-## Architecture
+### Architecture
 ![arch](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/7a5c9b14-729b-4224-92f6-78640a60eb0b)
 
 
