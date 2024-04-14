@@ -1,5 +1,5 @@
 <a href="https://ksp5-working-demo.vercel.app/" target="_blank">
-![Police Resource Management System](https://github.com/anmolwadhwaxx/ksp5/assets/94642300/12c30b32-1135-48a9-927a-b2308e8ecd33)
+<img src="https://github.com/anmolwadhwaxx/ksp5/assets/94642300/12c30b32-1135-48a9-927a-b2308e8ecd33">
 </a>
 
 # Police Resouce Management System
